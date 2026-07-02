@@ -1,0 +1,16 @@
+core features 
+
+add task; delete task; edit task(inline editing); 
+mark task completed; filter(all/ completed/ pemding);
+save tasks in localstorage; responsive ui; clean tailwind styling
+
+important to add 
+dark mode toggle; task priority(high/ medium/ low)
+search tasks; due date support
+
+ advanced 
+
+ drag & drop tasks
+ category tags(work/study/personal)
+ toast notifications
+ task counter
